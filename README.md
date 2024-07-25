@@ -1,4 +1,4 @@
-# Sales Insights Data Analysis
+# Sales Insights Using Power BI and SQL
 ### Data Analysis Using SQL
 
 1. Show all customer records
